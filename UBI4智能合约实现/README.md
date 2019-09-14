@@ -85,5 +85,5 @@ truffle migrate
     ├── testchain.sh    //测试帐号信息
     └── truffle.js     //配置文件
 ```
- ![data](https://github.com/IMRFeng/autohash/blob/master/UBI4%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%AE%9E%E7%8E%B0/images/1.jpg)
+ ![data](https://github.com/IMRFeng/autohash/blob/master/UBI4%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%AE%9E%E7%8E%B0/images/1.png)
  ![工作流程](https://github.com/IMRFeng/autohash/blob/master/UBI4%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%AE%9E%E7%8E%B0/images/2.png)
