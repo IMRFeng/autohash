@@ -65,7 +65,7 @@ truffle migrate
     ├── app 
        ...
     ├── contracts
-    │   ├── Claim.sol             //理赔服务
+    │   ├── Claim.sol             //理赔相关
     │   ├── helpers               //全局定义
     │   │   ├── Managed.sol
     │   │   └── Owned.sol
