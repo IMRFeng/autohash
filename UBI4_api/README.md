@@ -10,5 +10,7 @@ solidity
 
 MongoDB
 
+IPFS
+
 ## 工作流程
 ![](https://github.com/IMRFeng/autohash/blob/master/UBI4_api/public/6.png)
