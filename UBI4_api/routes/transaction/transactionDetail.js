@@ -1,6 +1,3 @@
-/**
- * Created by chenyufeng on 16/01/2017.
- */
 //查询交易记录的路由
 var commonUtils = require('../../public/javascripts/utils/commonUtils/commonUtils');
 var LOG = require('../../public/javascripts/utils/commonUtils/LOG');
