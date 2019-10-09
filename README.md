@@ -2,7 +2,7 @@
 Hackthon of the International Blockchain Week in Shanghai 2019
 
 
-By Lv Xingyu,Wang  Xiaowei,Hu Jiajie,Feng Zhantao
+By Wang  Xiaowei,Hu Jiajie,Feng Zhantao,Lv Xingyu
 
 基于区块链的第四代 UBI 驾驶行为关联车险产品
 
